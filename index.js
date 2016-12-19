@@ -5,7 +5,7 @@
 
 const Alexa = require('alexa-sdk');
 
-const APP_ID = null;
+const APP_ID = 'amzn1.ask.skill.914d239e-0207-4cdf-ad3e-3d7ac834074d';
 
 const handlers = {
     'NewSession': function () {
