@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Undergrounder/alexa-prime-number-checker#readme",
   "dependencies": {
-    "alexa-sdk": "^1.0.6"
+    "alexa-sdk": "^1.0.6",
+    "primality": "^1.6.1"
   }
 }
