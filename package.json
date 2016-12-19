@@ -1,0 +1,27 @@
+{
+  "name": "alexa-prime-number-checker",
+  "version": "1.0.0",
+  "description": "Amazon Alexa Skill - Primer Number Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Undergrounder/alexa-prime-number-checker.git"
+  },
+  "keywords": [
+    "Amazon",
+    "Alexa",
+    "Skill",
+    "Prime",
+    "Number",
+    "Checker"
+  ],
+  "author": "Adrian Tello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Undergrounder/alexa-prime-number-checker/issues"
+  },
+  "homepage": "https://github.com/Undergrounder/alexa-prime-number-checker#readme"
+}
