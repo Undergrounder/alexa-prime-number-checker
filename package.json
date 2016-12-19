@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Undergrounder/alexa-prime-number-checker/issues"
   },
-  "homepage": "https://github.com/Undergrounder/alexa-prime-number-checker#readme"
+  "homepage": "https://github.com/Undergrounder/alexa-prime-number-checker#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
 }
